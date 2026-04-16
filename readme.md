@@ -2,13 +2,7 @@
 
 **Road Hazard** is a fun and challenging road-crossing game built using Python and the Pygame library. Can you navigate through 10 lanes of heavy traffic and reach the safe zone?
 
----
-
-## 👤 Project Information
-*   **Student Name:** Subhan Haider
-*   **Period:** 5
-*   **Date:** 4/2/2026
-*   **Teacher:** Mr. Philips
+![Road Hazard Gameplay](screenshot.png)
 
 ---
 
