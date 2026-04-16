@@ -4,14 +4,6 @@
 
 ---
 
-## 👤 Project Information
-*   **Student Name:** Subhan Haider
-*   **Period:** 5
-*   **Date:** 4/2/2026
-*   **Teacher:** Mr. Philips
-
----
-
 ## 🎮 How to Play
 The goal is to reach the **Top Grass Row** without getting hit by moving cars.
 
